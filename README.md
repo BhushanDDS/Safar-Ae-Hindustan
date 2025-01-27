@@ -10,3 +10,6 @@ dfdfdjfkjf
 
 
 ##copyright
+
+
+## about automatic merge
