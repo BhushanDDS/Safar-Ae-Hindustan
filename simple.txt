@@ -1,4 +1,6 @@
 hello there 
+Edit 1 for rebase
 
+chnges for conflice
 
 from main conflict edit 2
